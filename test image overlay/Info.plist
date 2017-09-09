@@ -34,5 +34,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>User will see his gace</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>save video to photos</string>
 </dict>
 </plist>
